@@ -8,5 +8,5 @@ OpenStack structure:
 
 *SaaS (Software as a Service): "Provide online software/application as servoce. Those softwares/applications are run in the server side. Consumer can lease the softwares/applications through Internet by recieving an account and a password. Normally, consumer access the softwares/applications by leasing but not buying."
 
-<img src="./resources/images/Cloud_computing_layers.png">
+<img src="../resources/images/Cloud_computing_layers.png">
 
